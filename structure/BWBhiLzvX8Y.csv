@@ -1,0 +1,10 @@
+time,name
+0.260,intro
+8.900,head:horn
+49.560,solo:horn
+119.560,solo:piano
+187.900,solo:bass
+223.770,"trade:horn,piano"
+284.220,"trade:horn,drum"
+313.400,head:horn
+343.430,outro

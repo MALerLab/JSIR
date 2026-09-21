@@ -236,7 +236,8 @@
       "structure": "structure/olUu5imUXoc.csv",
       "segments": "segments/olUu5imUXoc.csv"
     },
-    "audio_length": 565.498775510204
+    "audio_length": 565.498775510204,
+    "instrumentation": "quartet"
   },
   {
     "id": "083a377a-6052-4c28-a8b5-5bc1c5752c6e",
@@ -259,7 +260,8 @@
       "structure": "structure/wjXqrvgGRXE.csv",
       "segments": "segments/wjXqrvgGRXE.csv"
     },
-    "audio_length": 281.820589569161
+    "audio_length": 281.820589569161,
+    "instrumentation": "piano trio"
   },
   {
     "id": "b1c57688-7a0c-4d0f-bf3b-64167907662c",
@@ -377,7 +379,8 @@
     "num_bars": 36,
     "rhythm_feel": "SWING",
     "time_signature": "4/4",
-    "key": "Ab maj"
+    "key": "Ab maj",
+    "tempo_class": "MEDIUM UP"
   },
   {
     "yt_id": "r5AQqDSiEws",
@@ -472,7 +475,8 @@
       "segments": "segments/Q3eFTwOD4dA.csv",
       "structure": "structure/Q3eFTwOD4dA.csv"
     },
-    "audio_length": 432.61097505668937
+    "audio_length": 432.61097505668937,
+    "instrumentation": "quartet"
   },
   {
     "id": "ab36f182-093e-4742-ab82-ecf8a04c8863",

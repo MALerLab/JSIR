@@ -368,7 +368,8 @@
       "audio": "audio/_gnY-kK-Lbw.wav",
       "beats": "beats/_gnY-kK-Lbw.txt",
       "structure": "structure/_gnY-kK-Lbw.csv",
-      "segments": "segments/_gnY-kK-Lbw.csv"
+      "segments": "segments/_gnY-kK-Lbw.csv",
+      "chords": "chords/_gnY-kK-Lbw.csv"
     },
     "tonality": "functional",
     "completed": true,
@@ -390,7 +391,8 @@
       "audio": "audio/r5AQqDSiEws.wav",
       "beats": "beats/r5AQqDSiEws.txt",
       "structure": "structure/r5AQqDSiEws.csv",
-      "segments": "segments/r5AQqDSiEws.csv"
+      "segments": "segments/r5AQqDSiEws.csv",
+      "chords": "chords/r5AQqDSiEws.csv"
     },
     "tonality": "functional",
     "completed": true,
@@ -412,7 +414,9 @@
     "files": {
       "audio": "audio/ESjNt-V-zRI.wav",
       "beats": "beats/ESjNt-V-zRI.txt",
-      "segments": "segments/ESjNt-V-zRI.csv"
+      "segments": "segments/ESjNt-V-zRI.csv",
+      "chords": "chords/ESjNt-V-zRI.csv",
+      "structure": "structure/ESjNt-V-zRI.csv"
     },
     "tonality": "functional",
     "completed": true,
@@ -434,7 +438,9 @@
     "files": {
       "audio": "audio/IRQe5aHvi8Y.wav",
       "beats": "beats/IRQe5aHvi8Y.txt",
-      "segments": "segments/IRQe5aHvi8Y.csv"
+      "segments": "segments/IRQe5aHvi8Y.csv",
+      "chords": "chords/IRQe5aHvi8Y.csv",
+      "structure": "structure/IRQe5aHvi8Y.csv"
     },
     "tonality": "functional",
     "completed": true,
@@ -463,7 +469,8 @@
       "audio": "audio/Q3eFTwOD4dA.wav",
       "beats": "beats/Q3eFTwOD4dA.txt",
       "chords": "chords/Q3eFTwOD4dA.csv",
-      "segments": "segments/Q3eFTwOD4dA.csv"
+      "segments": "segments/Q3eFTwOD4dA.csv",
+      "structure": "structure/Q3eFTwOD4dA.csv"
     },
     "audio_length": 432.61097505668937
   },
@@ -599,7 +606,8 @@
       "audio": "audio/zTVlrOk9a8M.wav",
       "beats": "beats/zTVlrOk9a8M.txt",
       "structure": "structure/zTVlrOk9a8M.csv",
-      "segments": "segments/zTVlrOk9a8M.csv"
+      "segments": "segments/zTVlrOk9a8M.csv",
+      "chords": "chords/zTVlrOk9a8M.csv"
     },
     "tonality": "functional",
     "completed": true,
@@ -646,7 +654,8 @@
       "audio": "audio/YVedK1VUfLM.wav",
       "beats": "beats/YVedK1VUfLM.txt",
       "structure": "structure/YVedK1VUfLM.csv",
-      "segments": "segments/YVedK1VUfLM.csv"
+      "segments": "segments/YVedK1VUfLM.csv",
+      "chords": "chords/YVedK1VUfLM.csv"
     },
     "tonality": "functional",
     "completed": true,
@@ -669,7 +678,8 @@
       "audio": "audio/YmqmdX9oCqo.wav",
       "beats": "beats/YmqmdX9oCqo.txt",
       "structure": "structure/YmqmdX9oCqo.csv",
-      "segments": "segments/YmqmdX9oCqo.csv"
+      "segments": "segments/YmqmdX9oCqo.csv",
+      "chords": "chords/YmqmdX9oCqo.csv"
     },
     "tonality": "functional",
     "completed": true,
@@ -695,11 +705,14 @@
       "structure": "structure/SyNVoUozNPE.csv",
       "segments": "segments/SyNVoUozNPE.csv"
     },
-    "tonality": "functional",
+    "tonality": "blues",
     "completed": true,
     "num_bars": 12,
     "key": "G maj",
-    "id": "d0012f28-999d-4993-8b50-0051d1af0e7b"
+    "id": "d0012f28-999d-4993-8b50-0051d1af0e7b",
+    "tempo_class": "MEDIUM UP",
+    "rhythm_feel": "SWING",
+    "time_signature": "4/4"
   },
   {
     "yt_id": "MiMLOc9h0RM",
@@ -713,12 +726,17 @@
       "audio": "audio/MiMLOc9h0RM.wav",
       "beats": "beats/MiMLOc9h0RM.txt",
       "structure": "structure/MiMLOc9h0RM.csv",
-      "segments": "segments/MiMLOc9h0RM.csv"
+      "segments": "segments/MiMLOc9h0RM.csv",
+      "chords": "chords/MiMLOc9h0RM.csv"
     },
-    "tonality": "functional",
+    "tonality": "blues",
     "completed": true,
     "key": "G maj",
-    "id": "222eb30d-a936-4795-80d1-367dbf68d6b4"
+    "id": "222eb30d-a936-4795-80d1-367dbf68d6b4",
+    "num_bars": 12,
+    "tempo_class": "MEDIUM UP",
+    "rhythm_feel": "SWING",
+    "time_signature": "4/4"
   },
   {
     "yt_id": "N7FHwhEKWsM",
@@ -732,9 +750,10 @@
       "audio": "audio/N7FHwhEKWsM.wav",
       "beats": "beats/N7FHwhEKWsM.txt",
       "structure": "structure/N7FHwhEKWsM.csv",
-      "segments": "segments/N7FHwhEKWsM.csv"
+      "segments": "segments/N7FHwhEKWsM.csv",
+      "chords": "chords/N7FHwhEKWsM.csv"
     },
-    "tonality": "functional",
+    "tonality": "blues",
     "completed": true,
     "num_bars": 12,
     "tempo_class": "MEDIUM",
@@ -757,7 +776,7 @@
       "structure": "structure/Q0FgtYzjkoo.csv",
       "segments": "segments/Q0FgtYzjkoo.csv"
     },
-    "tonality": "functional",
+    "tonality": "blues",
     "completed": true,
     "num_bars": 16,
     "tempo_class": "MEDIUM UP",
@@ -778,9 +797,10 @@
       "audio": "audio/Vsdtve9LKFE.wav",
       "beats": "beats/Vsdtve9LKFE.txt",
       "structure": "structure/Vsdtve9LKFE.csv",
-      "segments": "segments/Vsdtve9LKFE.csv"
+      "segments": "segments/Vsdtve9LKFE.csv",
+      "chords": "chords/Vsdtve9LKFE.csv"
     },
-    "tonality": "functional",
+    "tonality": "blues",
     "completed": true,
     "num_bars": 12,
     "key": "G maj",
@@ -804,7 +824,7 @@
       "structure": "structure/-uIRZpmwpxQ.csv",
       "segments": "segments/-uIRZpmwpxQ.csv"
     },
-    "tonality": "functional",
+    "tonality": "blues",
     "completed": true,
     "num_bars": 12,
     "tempo_class": "MEDIUM UP",
@@ -825,9 +845,10 @@
       "audio": "audio/78h5ppC6KYQ.wav",
       "beats": "beats/78h5ppC6KYQ.txt",
       "structure": "structure/78h5ppC6KYQ.csv",
-      "segments": "segments/78h5ppC6KYQ.csv"
+      "segments": "segments/78h5ppC6KYQ.csv",
+      "chords": "chords/78h5ppC6KYQ.csv"
     },
-    "tonality": "functional",
+    "tonality": "blues",
     "completed": true,
     "num_bars": 16,
     "key": "F maj",
@@ -856,7 +877,7 @@
     "tempo_class": "MEDIUM UP",
     "rhythm_feel": "SWING",
     "time_signature": "4/4",
-    "tonality": "functional",
+    "tonality": "blues",
     "completed": true,
     "id": "9f0826f4-97e6-4a4f-8183-2991f78368fb"
   },
@@ -880,7 +901,7 @@
     "tempo_class": "MEDIUM UP",
     "rhythm_feel": "SWING",
     "time_signature": "4/4",
-    "tonality": "functional",
+    "tonality": "blues",
     "completed": true,
     "id": "7e5e1ca3-615d-414b-8be9-266871231046"
   },
@@ -904,7 +925,7 @@
     "tempo_class": "MEDIUM UP",
     "rhythm_feel": "SWING",
     "time_signature": "4/4",
-    "tonality": "functional",
+    "tonality": "blues",
     "completed": true,
     "id": "8c5d2697-98ab-47f4-97cb-3c67904cdccb"
   },
@@ -928,7 +949,7 @@
     "tempo_class": "MEDIUM UP",
     "rhythm_feel": "SWING",
     "time_signature": "4/4",
-    "tonality": "functional",
+    "tonality": "blues",
     "completed": true,
     "id": "919e1911-4305-492f-88ab-68648fa1718f"
   },
@@ -952,7 +973,7 @@
     "tempo_class": "MEDIUM UP",
     "rhythm_feel": "SWING",
     "time_signature": "4/4",
-    "tonality": "functional",
+    "tonality": "blues",
     "completed": true,
     "id": "49db89ca-55a5-467a-9ab3-268c91c53194"
   },
@@ -976,7 +997,7 @@
     "tempo_class": "MEDIUM UP",
     "rhythm_feel": "SWING",
     "time_signature": "4/4",
-    "tonality": "functional",
+    "tonality": "blues",
     "completed": true,
     "id": "281711a0-d1f8-40b5-b3f1-c65bc13bcbe2"
   },
@@ -1000,7 +1021,7 @@
     "tempo_class": "MEDIUM UP",
     "rhythm_feel": "SWING",
     "time_signature": "4/4",
-    "tonality": "functional",
+    "tonality": "blues",
     "completed": true,
     "id": "216d529d-cdc4-4c42-8c58-ba21a7005b7a"
   },
@@ -1016,7 +1037,8 @@
       "audio": "audio/zdR7v0WbZbA.wav",
       "beats": "beats/zdR7v0WbZbA.txt",
       "structure": "structure/zdR7v0WbZbA.csv",
-      "segments": "segments/zdR7v0WbZbA.csv"
+      "segments": "segments/zdR7v0WbZbA.csv",
+      "chords": "chords/zdR7v0WbZbA.csv"
     },
     "tonality": "functional",
     "completed": true,
@@ -1063,7 +1085,8 @@
       "audio": "audio/EUxv3AAaK_Y.wav",
       "beats": "beats/EUxv3AAaK_Y.txt",
       "structure": "structure/EUxv3AAaK_Y.csv",
-      "segments": "segments/EUxv3AAaK_Y.csv"
+      "segments": "segments/EUxv3AAaK_Y.csv",
+      "chords": "chords/EUxv3AAaK_Y.csv"
     },
     "tonality": "functional",
     "completed": true,
@@ -1110,7 +1133,8 @@
       "audio": "audio/pVFr3Kg4V8g.wav",
       "beats": "beats/pVFr3Kg4V8g.txt",
       "structure": "structure/pVFr3Kg4V8g.csv",
-      "segments": "segments/pVFr3Kg4V8g.csv"
+      "segments": "segments/pVFr3Kg4V8g.csv",
+      "chords": "chords/pVFr3Kg4V8g.csv"
     },
     "tonality": "functional",
     "completed": true,
@@ -1133,7 +1157,8 @@
       "audio": "audio/CWPFfLNaxxE.wav",
       "beats": "beats/CWPFfLNaxxE.txt",
       "structure": "structure/CWPFfLNaxxE.csv",
-      "segments": "segments/CWPFfLNaxxE.csv"
+      "segments": "segments/CWPFfLNaxxE.csv",
+      "chords": "chords/CWPFfLNaxxE.csv"
     },
     "tonality": "functional",
     "completed": true,
@@ -1156,7 +1181,8 @@
       "audio": "audio/FzYUwU0Nzb0.wav",
       "beats": "beats/FzYUwU0Nzb0.txt",
       "structure": "structure/FzYUwU0Nzb0.csv",
-      "segments": "segments/FzYUwU0Nzb0.csv"
+      "segments": "segments/FzYUwU0Nzb0.csv",
+      "chords": "chords/FzYUwU0Nzb0.csv"
     },
     "tonality": "functional",
     "completed": true,
@@ -1192,30 +1218,6 @@
     "id": "3a68cd52-1cdc-47c8-9f59-014fc5322abb"
   },
   {
-    "yt_id": "AlSVDvNHLPs",
-    "standard": "Bye Bye Blackbird",
-    "artist": "John Coltrane",
-    "album": "Complete Live At the Sutherland Lounge 1961",
-    "instrumentation": "saxophone quartet",
-    "musicbrainz_id": "175387ea-c6be-46ed-a718-2d7de9d1c947",
-    "audio_length": 476.1813333333333,
-    "files": {
-      "audio": "audio/AlSVDvNHLPs.wav",
-      "beats": "beats/AlSVDvNHLPs.txt",
-      "chords": "chords/AlSVDvNHLPs.csv",
-      "structure": "structure/AlSVDvNHLPs.csv",
-      "segments": "segments/AlSVDvNHLPs.csv"
-    },
-    "key": "G maj",
-    "num_bars": 32,
-    "tempo_class": "MEDIUM UP",
-    "rhythm_feel": "SWING",
-    "time_signature": "4/4",
-    "tonality": "functional",
-    "completed": true,
-    "id": "5cb69dd2-2d11-47be-98a0-da205362f07f"
-  },
-  {
     "yt_id": "d2YyId3JTck",
     "standard": "Bye Bye Blackbird",
     "artist": "Keith Jarrett, Gary Peacock, Jack DeJohnette",
@@ -1227,7 +1229,8 @@
       "audio": "audio/d2YyId3JTck.wav",
       "beats": "beats/d2YyId3JTck.txt",
       "chords": "chords/d2YyId3JTck.csv",
-      "segments": "segments/d2YyId3JTck.csv"
+      "segments": "segments/d2YyId3JTck.csv",
+      "structure": "structure/d2YyId3JTck.csv"
     },
     "key": "F maj",
     "num_bars": 32,
@@ -1287,30 +1290,6 @@
     "id": "f63a390b-c30e-42ad-9be5-4013d341ff93"
   },
   {
-    "yt_id": "AlSVDvNHLPs",
-    "standard": "Bye Bye Blackbird",
-    "artist": "Red Garland",
-    "album": "Red Garland At The Prelude",
-    "instrumentation": "piano trio",
-    "musicbrainz_id": "5151ea8f-10b5-41ab-a6ba-68ca6c388c38",
-    "audio_length": 476.1813333333333,
-    "files": {
-      "audio": "audio/AlSVDvNHLPs.wav",
-      "beats": "beats/AlSVDvNHLPs.txt",
-      "chords": "chords/AlSVDvNHLPs.csv",
-      "structure": "structure/AlSVDvNHLPs.csv",
-      "segments": "segments/AlSVDvNHLPs.csv"
-    },
-    "key": "G maj",
-    "num_bars": 32,
-    "tempo_class": "MEDIUM UP",
-    "rhythm_feel": "SWING",
-    "time_signature": "4/4",
-    "tonality": "functional",
-    "completed": true,
-    "id": "6a5a5b1d-076e-4e76-8e54-d3cc5fb026c7"
-  },
-  {
     "id": "240f3eb6-1bcd-4dff-8fe6-3f9cbe19ebee",
     "tonality": "functional",
     "completed": true,
@@ -1328,9 +1307,11 @@
       "audio": "audio/bTIA7JnEem8.wav",
       "beats": "beats/bTIA7JnEem8.txt",
       "chords": "chords/bTIA7JnEem8.csv",
-      "segments": "segments/bTIA7JnEem8.csv"
+      "segments": "segments/bTIA7JnEem8.csv",
+      "structure": "structure/bTIA7JnEem8.csv"
     },
-    "audio_length": 405.4900680272109
+    "audio_length": 405.4900680272109,
+    "instrumentation": "quartet"
   },
   {
     "yt_id": "HDbgLJt50ss",
@@ -1344,7 +1325,8 @@
       "audio": "audio/HDbgLJt50ss.wav",
       "beats": "beats/HDbgLJt50ss.txt",
       "chords": "chords/HDbgLJt50ss.csv",
-      "segments": "segments/HDbgLJt50ss.csv"
+      "segments": "segments/HDbgLJt50ss.csv",
+      "structure": "structure/HDbgLJt50ss.csv"
     },
     "key": "F min",
     "num_bars": 64,
@@ -1493,9 +1475,11 @@
       "audio": "audio/A3vLZNVOgAE.wav",
       "beats": "beats/A3vLZNVOgAE.txt",
       "chords": "chords/A3vLZNVOgAE.csv",
-      "segments": "segments/A3vLZNVOgAE.csv"
+      "segments": "segments/A3vLZNVOgAE.csv",
+      "structure": "structure/A3vLZNVOgAE.csv"
     },
-    "audio_length": 658.7036734693878
+    "audio_length": 658.7036734693878,
+    "instrumentation": "piano trio"
   },
   {
     "yt_id": "MdM7fRE44kE",
@@ -1635,7 +1619,8 @@
       "audio": "audio/TRs_E7Z9I4E.wav",
       "beats": "beats/TRs_E7Z9I4E.txt",
       "chords": "chords/TRs_E7Z9I4E.csv",
-      "segments": "segments/TRs_E7Z9I4E.csv"
+      "segments": "segments/TRs_E7Z9I4E.csv",
+      "structure": "structure/TRs_E7Z9I4E.csv"
     },
     "audio_length": 140.9683446712018,
     "instrumentation": "quartet"
@@ -1658,9 +1643,11 @@
       "audio": "audio/LmFlOMQyf5k.wav",
       "beats": "beats/LmFlOMQyf5k.txt",
       "chords": "chords/LmFlOMQyf5k.csv",
-      "segments": "segments/LmFlOMQyf5k.csv"
+      "segments": "segments/LmFlOMQyf5k.csv",
+      "structure": "structure/LmFlOMQyf5k.csv"
     },
-    "audio_length": 994.7428571428571
+    "audio_length": 994.7428571428571,
+    "instrumentation": "quartet"
   },
   {
     "yt_id": "3sD5sxmSkzY",
@@ -1698,7 +1685,8 @@
       "audio": "audio/q--eHmrmgwE.wav",
       "beats": "beats/q--eHmrmgwE.txt",
       "chords": "chords/q--eHmrmgwE.csv",
-      "segments": "segments/q--eHmrmgwE.csv"
+      "segments": "segments/q--eHmrmgwE.csv",
+      "structure": "structure/q--eHmrmgwE.csv"
     },
     "key": "F maj",
     "num_bars": 32,
@@ -1823,7 +1811,8 @@
       "audio": "audio/Db_hzwtrQws.wav",
       "beats": "beats/Db_hzwtrQws.txt",
       "chords": "chords/Db_hzwtrQws.csv",
-      "segments": "segments/Db_hzwtrQws.csv"
+      "segments": "segments/Db_hzwtrQws.csv",
+      "structure": "structure/Db_hzwtrQws.csv"
     },
     "audio_length": 388.0518820861678,
     "instrumentation": "piano trio"
@@ -2193,7 +2182,7 @@
     "standard": "Donna Lee",
     "artist": "Lee Konitz, Warne Marsh",
     "album": "Lee Konitz with Warne Marsh",
-    "instrumentation": "saxophone-led quintet",
+    "instrumentation": "quintet",
     "musicbrainz_id": "64c8df7f-15f8-450b-83b6-a0d0ce1e6d47",
     "audio_length": 376.3954791666667,
     "files": {
@@ -2217,7 +2206,7 @@
     "standard": "Donna Lee",
     "artist": "Wynton Marsalis",
     "album": "Live at the House of Tribes",
-    "instrumentation": "trumpet quartet",
+    "instrumentation": "quartet",
     "musicbrainz_id": "f63fcfcc-2390-4958-8ec5-00a48ee59318",
     "audio_length": 407.6533333333333,
     "files": {
@@ -2254,9 +2243,11 @@
       "audio": "audio/ogJqb011SoI.wav",
       "beats": "beats/ogJqb011SoI.txt",
       "chords": "chords/ogJqb011SoI.csv",
-      "segments": "segments/ogJqb011SoI.csv"
+      "segments": "segments/ogJqb011SoI.csv",
+      "structure": "structure/ogJqb011SoI.csv"
     },
-    "audio_length": 155.52725623582765
+    "audio_length": 155.52725623582765,
+    "instrumentation": "quintet"
   },
   {
     "id": "724702f6-0852-4c45-98c6-48846499989e",
@@ -2276,9 +2267,11 @@
       "audio": "audio/pX8hN-SlsSA.wav",
       "beats": "beats/pX8hN-SlsSA.txt",
       "chords": "chords/pX8hN-SlsSA.csv",
-      "segments": "segments/pX8hN-SlsSA.csv"
+      "segments": "segments/pX8hN-SlsSA.csv",
+      "structure": "structure/pX8hN-SlsSA.csv"
     },
-    "audio_length": 429.6156009070295
+    "audio_length": 429.6156009070295,
+    "instrumentation": "quartet"
   },
   {
     "id": "b67d086c-b03f-4d07-93c4-b1a6f972b8f4",
@@ -2298,7 +2291,8 @@
       "audio": "audio/4qL_hkYEf1M.wav",
       "beats": "beats/4qL_hkYEf1M.txt",
       "chords": "chords/4qL_hkYEf1M.csv",
-      "segments": "segments/4qL_hkYEf1M.csv"
+      "segments": "segments/4qL_hkYEf1M.csv",
+      "structure": "structure/4qL_hkYEf1M.csv"
     },
     "audio_length": 395.6215873015873,
     "instrumentation": "quartet"
@@ -2322,7 +2316,8 @@
       "audio": "audio/j6SyZuV1WRI.wav",
       "beats": "beats/j6SyZuV1WRI.txt",
       "chords": "chords/j6SyZuV1WRI.csv",
-      "segments": "segments/j6SyZuV1WRI.csv"
+      "segments": "segments/j6SyZuV1WRI.csv",
+      "structure": "structure/j6SyZuV1WRI.csv"
     },
     "audio_length": 169.7843083900227
   },
@@ -2824,9 +2819,11 @@
       "audio": "audio/ULfMsWyWGbs.wav",
       "beats": "beats/ULfMsWyWGbs.txt",
       "chords": "chords/ULfMsWyWGbs.csv",
-      "segments": "segments/ULfMsWyWGbs.csv"
+      "segments": "segments/ULfMsWyWGbs.csv",
+      "structure": "structure/ULfMsWyWGbs.csv"
     },
-    "audio_length": 465.65297052154193
+    "audio_length": 465.65297052154193,
+    "instrumentation": "quintet"
   },
   {
     "yt_id": "HbJHzPTW5Wk",
@@ -3086,7 +3083,8 @@
       "audio": "audio/kDHeCQ84Iy4.wav",
       "beats": "beats/kDHeCQ84Iy4.txt",
       "chords": "chords/kDHeCQ84Iy4.csv",
-      "segments": "segments/kDHeCQ84Iy4.csv"
+      "segments": "segments/kDHeCQ84Iy4.csv",
+      "structure": "structure/kDHeCQ84Iy4.csv"
     },
     "audio_length": 291.3639909297052,
     "instrumentation": "big band"
@@ -3109,7 +3107,8 @@
       "audio": "audio/28v2yBOkL5s.wav",
       "beats": "beats/28v2yBOkL5s.txt",
       "chords": "chords/28v2yBOkL5s.csv",
-      "segments": "segments/28v2yBOkL5s.csv"
+      "segments": "segments/28v2yBOkL5s.csv",
+      "structure": "structure/28v2yBOkL5s.csv"
     },
     "audio_length": 204.38204081632654,
     "instrumentation": "big band"
@@ -3486,7 +3485,8 @@
       "audio": "audio/C-PF03PTL3U.wav",
       "beats": "beats/C-PF03PTL3U.txt",
       "chords": "chords/C-PF03PTL3U.csv",
-      "segments": "segments/C-PF03PTL3U.csv"
+      "segments": "segments/C-PF03PTL3U.csv",
+      "structure": "structure/C-PF03PTL3U.csv"
     },
     "key": "A min",
     "num_bars": 32,
@@ -3539,7 +3539,8 @@
       "audio": "audio/UOz1ImvUIx8.wav",
       "beats": "beats/UOz1ImvUIx8.txt",
       "chords": "chords/UOz1ImvUIx8.csv",
-      "segments": "segments/UOz1ImvUIx8.csv"
+      "segments": "segments/UOz1ImvUIx8.csv",
+      "structure": "structure/UOz1ImvUIx8.csv"
     },
     "audio_length": 609.4773696145124,
     "instrumentation": "quartet"
@@ -3562,9 +3563,11 @@
       "audio": "audio/FzwVeEpFjvE.wav",
       "beats": "beats/FzwVeEpFjvE.txt",
       "chords": "chords/FzwVeEpFjvE.csv",
-      "segments": "segments/FzwVeEpFjvE.csv"
+      "segments": "segments/FzwVeEpFjvE.csv",
+      "structure": "structure/FzwVeEpFjvE.csv"
     },
-    "audio_length": 670.8709297052154
+    "audio_length": 670.8709297052154,
+    "instrumentation": "piano trio"
   },
   {
     "yt_id": "i7equj-RvaA",
@@ -3842,7 +3845,8 @@
       "audio": "audio/siwFUDaCA_Y.wav",
       "beats": "beats/siwFUDaCA_Y.txt",
       "chords": "chords/siwFUDaCA_Y.csv",
-      "segments": "segments/siwFUDaCA_Y.csv"
+      "segments": "segments/siwFUDaCA_Y.csv",
+      "structure": "structure/siwFUDaCA_Y.csv"
     },
     "tonality": "functional",
     "completed": true,
@@ -3864,7 +3868,9 @@
     "files": {
       "audio": "audio/1_BvWeofmTc.wav",
       "beats": "beats/1_BvWeofmTc.txt",
-      "segments": "segments/1_BvWeofmTc.csv"
+      "segments": "segments/1_BvWeofmTc.csv",
+      "chords": "chords/1_BvWeofmTc.csv",
+      "structure": "structure/1_BvWeofmTc.csv"
     },
     "tonality": "functional",
     "completed": true,
@@ -3887,7 +3893,8 @@
       "audio": "audio/v2xmf3B7Z4Q.wav",
       "beats": "beats/v2xmf3B7Z4Q.txt",
       "chords": "chords/v2xmf3B7Z4Q.csv",
-      "segments": "segments/v2xmf3B7Z4Q.csv"
+      "segments": "segments/v2xmf3B7Z4Q.csv",
+      "structure": "structure/v2xmf3B7Z4Q.csv"
     },
     "tonality": "functional",
     "completed": true,
@@ -3910,7 +3917,8 @@
       "audio": "audio/n3RJv3AHsrs.wav",
       "beats": "beats/n3RJv3AHsrs.txt",
       "chords": "chords/n3RJv3AHsrs.csv",
-      "segments": "segments/n3RJv3AHsrs.csv"
+      "segments": "segments/n3RJv3AHsrs.csv",
+      "structure": "structure/n3RJv3AHsrs.csv"
     },
     "tonality": "functional",
     "completed": true,
@@ -3933,7 +3941,8 @@
       "audio": "audio/c9POENaBhIU.wav",
       "beats": "beats/c9POENaBhIU.txt",
       "chords": "chords/c9POENaBhIU.csv",
-      "segments": "segments/c9POENaBhIU.csv"
+      "segments": "segments/c9POENaBhIU.csv",
+      "structure": "structure/c9POENaBhIU.csv"
     },
     "tonality": "functional",
     "completed": true,
@@ -3963,7 +3972,8 @@
       "audio": "audio/15Cod69ooZw.wav",
       "beats": "beats/15Cod69ooZw.txt",
       "chords": "chords/15Cod69ooZw.csv",
-      "segments": "segments/15Cod69ooZw.csv"
+      "segments": "segments/15Cod69ooZw.csv",
+      "structure": "structure/15Cod69ooZw.csv"
     },
     "audio_length": 160.31056689342404
   },
@@ -4056,7 +4066,8 @@
       "audio": "audio/c8fvOJvRmPY.wav",
       "beats": "beats/c8fvOJvRmPY.txt",
       "chords": "chords/c8fvOJvRmPY.csv",
-      "segments": "segments/c8fvOJvRmPY.csv"
+      "segments": "segments/c8fvOJvRmPY.csv",
+      "structure": "structure/c8fvOJvRmPY.csv"
     },
     "audio_length": 349.64607709750567,
     "instrumentation": "vibraphone quartet"
@@ -4151,7 +4162,8 @@
       "audio": "audio/9J80pAc8vt0.wav",
       "beats": "beats/9J80pAc8vt0.txt",
       "chords": "chords/9J80pAc8vt0.csv",
-      "segments": "segments/9J80pAc8vt0.csv"
+      "segments": "segments/9J80pAc8vt0.csv",
+      "structure": "structure/9J80pAc8vt0.csv"
     },
     "audio_length": 392.8816326530612,
     "instrumentation": "piano trio"
@@ -4247,7 +4259,8 @@
       "audio": "audio/ODoixA4u6z4.wav",
       "beats": "beats/ODoixA4u6z4.txt",
       "chords": "chords/ODoixA4u6z4.csv",
-      "segments": "segments/ODoixA4u6z4.csv"
+      "segments": "segments/ODoixA4u6z4.csv",
+      "structure": "structure/ODoixA4u6z4.csv"
     },
     "audio_length": 203.40680272108844
   },
@@ -4317,9 +4330,11 @@
       "audio": "audio/yAPsAd8zCfk.wav",
       "beats": "beats/yAPsAd8zCfk.txt",
       "chords": "chords/yAPsAd8zCfk.csv",
-      "segments": "segments/yAPsAd8zCfk.csv"
+      "segments": "segments/yAPsAd8zCfk.csv",
+      "structure": "structure/yAPsAd8zCfk.csv"
     },
-    "audio_length": 455.1111111111111
+    "audio_length": 455.1111111111111,
+    "instrumentation": "quartet"
   },
   {
     "id": "8fff5c6c-2b17-4f3d-8741-02d15904ae20",
@@ -4340,7 +4355,8 @@
       "audio": "audio/h04lj_PJyek.wav",
       "beats": "beats/h04lj_PJyek.txt",
       "chords": "chords/h04lj_PJyek.csv",
-      "segments": "segments/h04lj_PJyek.csv"
+      "segments": "segments/h04lj_PJyek.csv",
+      "structure": "structure/h04lj_PJyek.csv"
     },
     "audio_length": 251.2863492063492
   },
@@ -4763,7 +4779,9 @@
     "files": {
       "audio": "audio/TgU5LM0IUvI.wav",
       "beats": "beats/TgU5LM0IUvI.txt",
-      "segments": "segments/TgU5LM0IUvI.csv"
+      "segments": "segments/TgU5LM0IUvI.csv",
+      "chords": "chords/TgU5LM0IUvI.csv",
+      "structure": "structure/TgU5LM0IUvI.csv"
     },
     "tonality": "functional",
     "completed": true,
@@ -4786,7 +4804,8 @@
       "audio": "audio/w-K9lUq2CVw.wav",
       "beats": "beats/w-K9lUq2CVw.txt",
       "chords": "chords/w-K9lUq2CVw.csv",
-      "segments": "segments/w-K9lUq2CVw.csv"
+      "segments": "segments/w-K9lUq2CVw.csv",
+      "structure": "structure/w-K9lUq2CVw.csv"
     },
     "tonality": "functional",
     "completed": true,
@@ -4809,7 +4828,8 @@
       "audio": "audio/nN0-41ypXbo.wav",
       "beats": "beats/nN0-41ypXbo.txt",
       "chords": "chords/nN0-41ypXbo.csv",
-      "segments": "segments/nN0-41ypXbo.csv"
+      "segments": "segments/nN0-41ypXbo.csv",
+      "structure": "structure/nN0-41ypXbo.csv"
     },
     "tonality": "functional",
     "completed": true,
@@ -4831,7 +4851,9 @@
     "files": {
       "audio": "audio/f7Mv6TW-xP8.wav",
       "beats": "beats/f7Mv6TW-xP8.txt",
-      "segments": "segments/f7Mv6TW-xP8.csv"
+      "segments": "segments/f7Mv6TW-xP8.csv",
+      "chords": "chords/f7Mv6TW-xP8.csv",
+      "structure": "structure/f7Mv6TW-xP8.csv"
     },
     "tonality": "functional",
     "completed": true,
@@ -4853,7 +4875,9 @@
     "files": {
       "audio": "audio/4_gwD5e1rCo.wav",
       "beats": "beats/4_gwD5e1rCo.txt",
-      "segments": "segments/4_gwD5e1rCo.csv"
+      "segments": "segments/4_gwD5e1rCo.csv",
+      "chords": "chords/4_gwD5e1rCo.csv",
+      "structure": "structure/4_gwD5e1rCo.csv"
     },
     "tonality": "functional",
     "completed": true,
@@ -4883,7 +4907,8 @@
       "audio": "audio/s2FS8BOIuEA.wav",
       "beats": "beats/s2FS8BOIuEA.txt",
       "chords": "chords/s2FS8BOIuEA.csv",
-      "segments": "segments/s2FS8BOIuEA.csv"
+      "segments": "segments/s2FS8BOIuEA.csv",
+      "structure": "structure/s2FS8BOIuEA.csv"
     },
     "audio_length": 223.19020408163266
   },
@@ -4906,7 +4931,8 @@
       "audio": "audio/rc6YyJAlKns.wav",
       "beats": "beats/rc6YyJAlKns.txt",
       "chords": "chords/rc6YyJAlKns.csv",
-      "segments": "segments/rc6YyJAlKns.csv"
+      "segments": "segments/rc6YyJAlKns.csv",
+      "structure": "structure/rc6YyJAlKns.csv"
     },
     "audio_length": 516.5278911564626
   },
@@ -5504,7 +5530,7 @@
     "key": "Bb min",
     "num_bars": 16,
     "tempo_class": "MEDIUM SLOW",
-    "rhythm_feel": "TWOBEAT",
+    "rhythm_feel": "SWING",
     "time_signature": "4/4",
     "tonality": "functional",
     "completed": true,
@@ -5528,7 +5554,7 @@
     "key": "G min",
     "num_bars": 16,
     "tempo_class": "MEDIUM SLOW",
-    "rhythm_feel": "TWOBEAT",
+    "rhythm_feel": "SWING",
     "time_signature": "4/4",
     "tonality": "functional",
     "completed": true,
@@ -5762,7 +5788,8 @@
       "audio": "audio/JGqzKmp_5Bg.wav",
       "beats": "beats/JGqzKmp_5Bg.txt",
       "chords": "chords/JGqzKmp_5Bg.csv",
-      "segments": "segments/JGqzKmp_5Bg.csv"
+      "segments": "segments/JGqzKmp_5Bg.csv",
+      "structure": "structure/JGqzKmp_5Bg.csv"
     },
     "tonality": "functional",
     "completed": true,
@@ -5785,7 +5812,8 @@
       "audio": "audio/pKS6uFF2y44.wav",
       "beats": "beats/pKS6uFF2y44.txt",
       "chords": "chords/pKS6uFF2y44.csv",
-      "segments": "segments/pKS6uFF2y44.csv"
+      "segments": "segments/pKS6uFF2y44.csv",
+      "structure": "structure/pKS6uFF2y44.csv"
     },
     "tonality": "functional",
     "completed": true,
@@ -5808,7 +5836,8 @@
       "audio": "audio/vx_uV48z81I.wav",
       "beats": "beats/vx_uV48z81I.txt",
       "chords": "chords/vx_uV48z81I.csv",
-      "segments": "segments/vx_uV48z81I.csv"
+      "segments": "segments/vx_uV48z81I.csv",
+      "structure": "structure/vx_uV48z81I.csv"
     },
     "tonality": "functional",
     "completed": true,
@@ -5830,7 +5859,9 @@
     "files": {
       "audio": "audio/IfSOhv6QRKI.wav",
       "beats": "beats/IfSOhv6QRKI.txt",
-      "segments": "segments/IfSOhv6QRKI.csv"
+      "segments": "segments/IfSOhv6QRKI.csv",
+      "chords": "chords/IfSOhv6QRKI.csv",
+      "structure": "structure/IfSOhv6QRKI.csv"
     },
     "tonality": "functional",
     "completed": true,
@@ -5852,7 +5883,9 @@
     "files": {
       "audio": "audio/Y66-bZPWl0A.wav",
       "beats": "beats/Y66-bZPWl0A.txt",
-      "segments": "segments/Y66-bZPWl0A.csv"
+      "segments": "segments/Y66-bZPWl0A.csv",
+      "chords": "chords/Y66-bZPWl0A.csv",
+      "structure": "structure/Y66-bZPWl0A.csv"
     },
     "tonality": "functional",
     "completed": true,
@@ -5874,7 +5907,9 @@
     "files": {
       "audio": "audio/5IAg6XY-0rI.wav",
       "beats": "beats/5IAg6XY-0rI.txt",
-      "segments": "segments/5IAg6XY-0rI.csv"
+      "segments": "segments/5IAg6XY-0rI.csv",
+      "chords": "chords/5IAg6XY-0rI.csv",
+      "structure": "structure/5IAg6XY-0rI.csv"
     },
     "tonality": "functional",
     "completed": true,
@@ -5896,7 +5931,9 @@
     "files": {
       "audio": "audio/sVUCD5MwqyQ.wav",
       "beats": "beats/sVUCD5MwqyQ.txt",
-      "segments": "segments/sVUCD5MwqyQ.csv"
+      "segments": "segments/sVUCD5MwqyQ.csv",
+      "chords": "chords/sVUCD5MwqyQ.csv",
+      "structure": "structure/sVUCD5MwqyQ.csv"
     },
     "tonality": "functional",
     "completed": true,

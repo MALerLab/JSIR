@@ -1,6 +1,6 @@
 <div align="center">
     <img src="./assets/JSIR_logo.png" alt="JSIR logo" width="400" />
-    <h1>JSIR: A Multi-Task, Audio-Aligned Dataset of Jazz Standard Recordings</h1>
+    <h1>JSIR: An Audio-Aligned, Multi-Task Dataset of Jazz Standard Recordings</h1>
     <p>Sihun Lee, Dasaem Jeong</p>
     <p>
         <a target="_blank" href="https://jsir-browser.onrender.com">Dataset Browser</a>

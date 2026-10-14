@@ -5,6 +5,8 @@
     <p>
         <a target="_blank" href="https://jsir-browser.onrender.com">Dataset Browser</a>
         <span> · </span>
+        <a target="_blank" href="https://arxiv.org/abs/2610.15356">arXiv Preprint</a>
+        <span> · </span>
         <a target="_blank" href="https://github.com/MALerLab/JSIR-annotator">Annotation Tool</a>
     </p>
 </div>
